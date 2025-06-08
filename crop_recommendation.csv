@@ -1,0 +1,4 @@
+N,P,K,temperature,humidity,ph,rainfall,label
+90,42,43,20.87,82.0,6.5,202.93,Rice
+85,58,41,21.0,80.3,6.8,90.0,Wheat
+50,30,20,23.5,60.0,6.0,140.0,Corn

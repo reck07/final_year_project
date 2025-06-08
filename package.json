@@ -1,0 +1,21 @@
+{
+  "name": "smart-farming-solutions",
+  "version": "1.0.0",
+  "description": "Smart Farming Solutions - AI-powered crop recommendations and path planning",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "install-all": "npm install && cd frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@mui/icons-material": "^7.1.0",
+    "@nivo/core": "^0.99.0",
+    "@nivo/heatmap": "^0.99.0",
+    "@nivo/line": "^0.99.0",
+    "plotly.js-dist": "^3.0.1",
+    "react-plotly.js": "^2.6.0"
+  }
+}

@@ -1,0 +1,15 @@
+flask==2.0.1
+flask-cors==3.0.10
+numpy
+pandas
+scikit-learn
+matplotlib
+opencv-python
+python-dotenv==0.19.0
+PyJWT==2.1.0
+SQLAlchemy==1.4.23
+Werkzeug==2.0.1
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+google-api-python-client==2.3.0
+joblib==1.0.1 
